@@ -64,7 +64,7 @@ header {
 
 .navbar a::after {
     position: absolute;
-    content: '';
+    
     height: 3px;
     bottom: 0px;
     width: 40%;
