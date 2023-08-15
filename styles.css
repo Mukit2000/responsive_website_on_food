@@ -607,9 +607,8 @@ section {
     }
 
     .home-img img {
-        style="width: 50%;
-        margin:auto"
-        
+   
+        width: 430px;
         max-width: 100%;
         height: auto;
     }
